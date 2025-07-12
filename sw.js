@@ -1,3 +1,4 @@
+
 const CACHE_NAME = 'Deutsche-Bahn-Roblox';
 const BASE = '/MBU.CO.DE/';  // Basis-Pfad für GitHub Pages
 

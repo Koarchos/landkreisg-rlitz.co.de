@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "lang": "en-US",
   "name": "[Roblox] DB Training",
@@ -17,3 +18,24 @@
 ]
 
 }
+=======
+{
+  "lang": "en-US",
+  "name": "[Roblox] DB Training",
+  "short_name": "DB Training [RBX]",
+  "description": "Your all-in-one trainings calender",
+  "start_url": "/MBU.CO.DE/",
+  "background_color": "#ffffff",
+  "theme_color": "#121212",
+  "orientation": "any",
+  "display": "fullscreen",
+  "icons": [
+  {
+    "src": "/MBU.CO.DE/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+
+}
+>>>>>>> f313895f9c04e093a9314192983b299c50358f3e
