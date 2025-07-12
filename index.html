@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="de-DE">
 <head>
@@ -43,49 +42,3 @@
   </script>
 </body>
 </html>
-=======
-<!DOCTYPE html>
-<html lang="de-DE">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/png" href="icon2-512.png">
-  <link rel="stylesheet" href="styles/index/index.css">
-  <link rel="manifest" href="/MBU.CO.DE/manifest.json">
-  <title>Start</title>
-</head>
-<body>
-  <!-- Ladeanimation -->
-  <div class="loader-screen" id="loaderScreen">
-    <img src="icon2-512.png" alt="Logo" class="logo">
-    <h1 class="loading-text">Lade<span class="dots">.</span></h1>
-  </div>
-
-  <!-- PWA (Unverändert) -->
-  <script src="/MBU.CO.DE/install.js"></script>
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/MBU.CO.DE/sw.js', {
-        scope: '/MBU.CO.DE/'
-      });
-    }
-  </script>
-
-  <!-- Ladeanimation -->
-  <script>
-    const dots = document.querySelector('.dots');
-    let dotCount = 1;
-    setInterval(() => {
-      dots.textContent = '.'.repeat(dotCount++ % 4 || 1);
-    }, 500);
-
-    setTimeout(() => {
-      document.getElementById('loaderScreen').classList.add('hide');
-      setTimeout(() => {
-        window.location.href = 'pages/login.html';
-      }, 1000); // nach Animation weiterleiten
-    }, 5000);
-  </script>
-</body>
-</html>
->>>>>>> f313895f9c04e093a9314192983b299c50358f3e
