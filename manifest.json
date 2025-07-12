@@ -1,19 +1,18 @@
 {
-  "lang": "en-US",
   "name": "Landkreis Görlitz",
   "short_name": "LKG Roblox",
   "description": "Your all-in-one app for information",
   "start_url": "/MBU.CO.DE/",
+  "scope": "/MBU.CO.DE/",
   "background_color": "#ffffff",
   "theme_color": "#121212",
   "orientation": "any",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [
-  {
-    "src": "/MBU.CO.DE/icon512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
-
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
