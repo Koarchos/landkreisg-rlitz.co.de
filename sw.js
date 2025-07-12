@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Deutsche-Bahn-Roblox';
+const CACHE_NAME = 'Landkreis-Görlitz';
 const BASE = '/MBU.CO.DE/';  // Basis-Pfad für GitHub Pages
 
 self.addEventListener('install', event => {
