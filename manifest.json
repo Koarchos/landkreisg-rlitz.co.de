@@ -1,16 +1,16 @@
 {
   "lang": "en-US",
-  "name": "[Roblox] DB Training",
-  "short_name": "DB Training [RBX]",
+  "name": "[Roblox] Landkreis Görlitz",
+  "short_name": "Landkreis Görlitz",
   "description": "Your all-in-one trainings calender",
-  "start_url": "/deutschebahnroblox.co.de/",
+  "start_url": "/landkreisgörlitz.co.de/",
   "background_color": "#ffffff",
   "theme_color": "#121212",
   "orientation": "any",
   "display": "fullscreen",
   "icons": [
   {
-    "src": "/deutschebahnroblox.co.de/icon512.png",
+    "src": "/landkreisgörlitz.co.de/icon512.png",
     "sizes": "512x512",
     "type": "image/png"
   }
