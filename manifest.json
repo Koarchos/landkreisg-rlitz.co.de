@@ -1,19 +1,19 @@
 {
-  "lang": "en-US",
+  "lang": "de-DE",
   "name": "[Roblox] Landkreis Görlitz",
-  "short_name": "Landkreis Görlitz",
-  "description": "Your all-in-one trainings calender",
+  "short_name": "LKG Roblox",
+  "description": "Your all-in-one app for training & information",
   "start_url": "/landkreisgörlitz.co.de/",
+  "scope": "/landkreisgörlitz.co.de/",
   "background_color": "#ffffff",
   "theme_color": "#121212",
   "orientation": "any",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [
-  {
-    "src": "/landkreisgörlitz.co.de/icon512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
-
+    {
+      "src": "/landkreisgörlitz.co.de/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
