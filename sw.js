@@ -1,5 +1,5 @@
 const CACHE_NAME = 'Landkreis-Görlitz-Roblox';
-const BASE = '/landkreisgörlitz.co.de/';  // Basis-Pfad für GitHub Pages
+const BASE = '/landkreisgoerlitz.co.de/';  // Basis-Pfad für GitHub Pages
 
 self.addEventListener('install', event => {
   event.waitUntil(

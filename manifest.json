@@ -3,15 +3,15 @@
   "name": "[Roblox] Landkreis Görlitz",
   "short_name": "LKG Roblox",
   "description": "Your all-in-one app for training & information",
-  "start_url": "/landkreisgörlitz.co.de/",
-  "scope": "/landkreisgörlitz.co.de/",
+  "start_url": "/landkreisgoerlitz.co.de/",
+  "scope": "/landkreisgoerlitz.co.de/",
   "background_color": "#ffffff",
   "theme_color": "#121212",
   "orientation": "any",
   "display": "standalone",
   "icons": [
     {
-      "src": "/landkreisgörlitz.co.de/icon512.png",
+      "src": "/landkreisgoerlitz.co.de/icon512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
